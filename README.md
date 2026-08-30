@@ -1,18 +1,20 @@
-# Adrianov Abcop
+# adrianov/abcop
 
-## How do I install these formulae?
+Homebrew tap for [abcop](https://github.com/adrianov/abcop) — ABC complexity gate for AI-written code.
 
-`brew install adrianov/abcop/<formula>`
+## Install
 
-Or `brew tap adrianov/abcop` and then `brew install <formula>`.
+```sh
+brew install adrianov/abcop/abcop
+```
 
-Or, in a `brew bundle` `Brewfile`:
+Or:
 
-```ruby
-tap "adrianov/abcop"
-brew "<formula>"
+```sh
+brew tap adrianov/abcop
+brew install abcop
 ```
 
 ## Documentation
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+`brew help`, `man brew`, or [Homebrew docs](https://docs.brew.sh).
