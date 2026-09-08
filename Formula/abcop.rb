@@ -1,7 +1,7 @@
 class Abcop < Formula
   desc "Must-have ABC complexity gate for AI-written code"
   homepage "https://github.com/adrianov/abcop"
-  url "https://github.com/adrianov/abcop/archive/refs/tags/v0.19.0tar.gz"
+  url "https://github.com/adrianov/abcop/archive/refs/tags/v0.19.0.tar.gz"
   sha256 "667be2bdd6409806adca644382ac92a49c9f975ee0828f72a6291338eaade7ea"
   license "GPL-3.0-or-later"
   head "https://github.com/adrianov/abcop.git", branch: "main"
